@@ -1,0 +1,7 @@
+/crud_oop
+  |-- index.php
+  |-- db.php
+  |-- Entry.php
+  |-- create.php
+  |-- update.php
+  |-- delete.php
